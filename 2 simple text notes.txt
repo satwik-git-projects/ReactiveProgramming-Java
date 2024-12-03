@@ -1,1 +1,12 @@
-hello
+generate ssh key:  ssh-keygen -t ed25519-sk -C "your_email@example.com"
+copy ssh key  : clip < ~/.ssh/id_ed25519.pub
+
+add ssh key in git hub
+
+
+configure git username and email
+
+start using git  commands
+ 
+
+
